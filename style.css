@@ -1,0 +1,8 @@
+table,td,th{
+    border: 3px dashed blueviolet;
+    text-align: center;
+    border-collapse: collapse;
+    font-family: Arial;
+    font-size: 50px;
+
+}
